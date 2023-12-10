@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620567782 source:c:\users\hazem\desktop\maze runner fp\main.cpp
+	<iostream>
+	"Game.h"
+
+1620567782 c:\users\hazem\desktop\maze runner fp\include\game.h
+
+1620567782 source:c:\users\hazem\desktop\maze runner fp\src\game.cpp
+	<iostream>
+	<fstream>
+	"Game.h"
+
+1620567782 source:c:\users\hazem\desktop\programmes\maze runner fp\main.cpp
+	<iostream>
+	"Game.h"
+
+1620567782 c:\users\hazem\desktop\programmes\maze runner fp\include\game.h
+
+1620567782 source:c:\users\hazem\desktop\programmes\maze runner fp\src\game.cpp
+	<iostream>
+	<fstream>
+	"Game.h"
+
